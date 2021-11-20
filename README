@@ -3,6 +3,7 @@ python-ldap: LDAP client API for Python
 ---------------------------------------
 
 .. warning::
+
 	DIRTY AND QUICK WORKAROUND FOR USING recent OpenLDAP 2.5**
 
 What is python-ldap?
